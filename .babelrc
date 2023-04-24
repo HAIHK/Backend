@@ -1,0 +1,5 @@
+{// Cấu hình babel làm cho thư viện hoạt động
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
